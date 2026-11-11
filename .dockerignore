@@ -1,0 +1,8 @@
+.git
+.gitignore
+.jshintrc
+.DS_Store
+Dockerfile
+.dockerignore
+buildspec.yml
+style/*.scss
