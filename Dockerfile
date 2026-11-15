@@ -1,5 +1,5 @@
 # Use the official Nginx image as the base
-FROM nginx:latest
+FROM nginx:1.30-alpine
 
 # Copy the 2048 game files to the Nginx web root
 COPY . /usr/share/nginx/html
